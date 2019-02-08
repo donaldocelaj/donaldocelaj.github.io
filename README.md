@@ -12,4 +12,4 @@ https://medium.com/@donaldocelaj/effect-of-income-taxes-on-the-individual-8f744b
 
 code for data: https://github.com/donaldocelaj/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Tax%20Article%20Code.ipynb
 
-!(graph)[https://github.com/donaldocelaj/donaldocelaj.github.io/blob/master/graph1.png]
+![graph](graph1.png)
