@@ -6,7 +6,7 @@ email: donaldocelaj@ gmail.com
 
 
 
-I'm very curious about economics and how tax rates effect society as a whole. I did a study involving 118 countries and seeing how their tax rates affected aspects of their society.
+I'm very curious about economics and how tax rates effect society as a whole. I did a study involving 118 countries and seeing how their tax rates affected aspects of their society. It seems that unemployment was quite correlated with tax rates but death rate wasn't correlated very much.
 
 https://medium.com/@donaldocelaj/effect-of-income-taxes-on-the-individual-8f744b1a7611 
 
